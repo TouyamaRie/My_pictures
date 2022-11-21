@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T13:33:12.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oz3sO8JW--o3HdMenFma" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-21T14:54:33.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Hf7YmIgVLvOXTTLdotKe" version="20.5.3" type="github" pages="2">
   <diagram id="BBmWvBnymKctrQ3piECR" name="第 1 页">
     <mxGraphModel dx="3083" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1031,7 +1031,7 @@
         <mxCell id="i8ZhnDV3j1bw2FT-ckeM-2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;RouterGroup&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-300" y="4224" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i8ZhnDV3j1bw2FT-ckeM-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;prefix&amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;middlewares []HandlerFunc&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;parent&amp;nbsp; &amp;nbsp; &amp;nbsp; *RouterGroup&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;engine&amp;nbsp; &amp;nbsp;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;*Engine&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="i8ZhnDV3j1bw2FT-ckeM-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;prefix&amp;nbsp; &amp;nbsp; &amp;nbsp; string&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;middlewares []HandlerFunc&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;engine&amp;nbsp; &amp;nbsp;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;*Engine&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-160.5" y="4210" width="220" height="94" as="geometry" />
         </mxCell>
         <mxCell id="i8ZhnDV3j1bw2FT-ckeM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;startArrow=oval;startFill=1;endArrow=none;endFill=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" target="i8ZhnDV3j1bw2FT-ckeM-37" edge="1">
@@ -1491,11 +1491,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="iWLryJT7Btr3c1XMPLEi-7" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 24px;&quot;&gt;添加&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=28;fontColor=#009900;" vertex="1" connectable="0" parent="iWLryJT7Btr3c1XMPLEi-6">
+          <mxGeometry x="0.0517" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="354ml6KSRnXXky594kBs" name="第 2 页">
-    <mxGraphModel dx="1350" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="929" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
