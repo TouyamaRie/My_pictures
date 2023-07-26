@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:54:06.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Lj9x1hh4yF9up64Ex6mx" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T09:06:02.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WSjgWR1hPfJPajQ8gGQR" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1779" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="PrX8U-TaPz2yNPLpfvU8-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PrX8U-TaPz2yNPLpfvU8-26" target="PrX8U-TaPz2yNPLpfvU8-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PrX8U-TaPz2yNPLpfvU8-26" value="插入领取活动信息&lt;br style=&quot;font-size: 14px;&quot;&gt;userTakeActivityDao.insert(userTakeActivity)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=14;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PrX8U-TaPz2yNPLpfvU8-26" value="userTakeActivityDao.&lt;br&gt;insert(userTakeActivity)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;fontSize=14;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="510" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PrX8U-TaPz2yNPLpfvU8-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;fontStyle=0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PrX8U-TaPz2yNPLpfvU8-34" target="PrX8U-TaPz2yNPLpfvU8-4">
@@ -84,6 +84,27 @@
         </mxCell>
         <mxCell id="PrX8U-TaPz2yNPLpfvU8-37" value="DataBase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;fontSize=14;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-210" y="449" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PrX8U-TaPz2yNPLpfvU8-40" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="430" as="sourcePoint" />
+            <mxPoint x="670" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrX8U-TaPz2yNPLpfvU8-41" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="550" as="sourcePoint" />
+            <mxPoint x="670" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrX8U-TaPz2yNPLpfvU8-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="550" as="sourcePoint" />
+            <mxPoint x="600" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrX8U-TaPz2yNPLpfvU8-43" value="路由组件事务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="454" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
