@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T03:28:32.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dVgIIOjN7vnmC2uSFekV" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T05:59:02.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="97jBdSNnBRruaCmRiGxS" version="21.6.6" type="github">
   <diagram name="第 1 页" id="K2aoj24qo6fCBiK2xhCu">
     <mxGraphModel dx="2051" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,7 +471,7 @@
           <mxGeometry x="791.25" y="830" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e9Ft5UjVePU7gW4qI2dC-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;消息队列&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#005700;fillColor=#008a00;shape=mxgraph.azure.queue_generic;pointerEvents=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="180" y="965" width="135" height="45" as="geometry" />
+          <mxGeometry x="180" y="962" width="135" height="45" as="geometry" />
         </mxCell>
         <mxCell id="e9Ft5UjVePU7gW4qI2dC-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e9Ft5UjVePU7gW4qI2dC-23" target="e9Ft5UjVePU7gW4qI2dC-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -574,7 +574,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e9Ft5UjVePU7gW4qI2dC-51" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;awardRepository&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="507.5" y="965" width="142.5" height="40" as="geometry" />
+          <mxGeometry x="507.5" y="966" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e9Ft5UjVePU7gW4qI2dC-53" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;doDistribution&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="315" y="950" width="100" height="20" as="geometry" />
