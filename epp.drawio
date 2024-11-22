@@ -28,8 +28,8 @@
             <mxPoint x="540" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-7" value="describeService ( )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="180" width="110" height="20" as="geometry" />
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;describeService ( )&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
