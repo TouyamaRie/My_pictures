@@ -1,35 +1,50 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="ONAhNbK6WlwOs88OQiCy">
-    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;coreService&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;coreService&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SMqSmTWAoD0rVWmoxJEN-2" target="SMqSmTWAoD0rVWmoxJEN-3">
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SMqSmTWAoD0rVWmoxJEN-2" target="SMqSmTWAoD0rVWmoxJEN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;grpcChannelFactory&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;grpcChannelFactory&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="160" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;channel&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;channel&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="210" as="sourcePoint" />
             <mxPoint x="260" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="209.5" as="sourcePoint" />
             <mxPoint x="540" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMqSmTWAoD0rVWmoxJEN-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;describeService ( )&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SMqSmTWAoD0rVWmoxJEN-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;describeService ( )&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="190" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-BjC2MzRFKrm_7a5L8--1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;创建一个gRPC通道&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;并初始化coreService&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-BjC2MzRFKrm_7a5L8--2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;使用带有访问令牌的 gRPC 客户端调用远程服务的 describeService 方法&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;并返回响应。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-BjC2MzRFKrm_7a5L8--3" value="&lt;div data-darkreader-inline-bgcolor=&quot;&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Fira code&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px; white-space: pre; --darkreader-inline-color: #c8c3bc; --darkreader-inline-bgcolor: #17191a;&quot;&gt;&lt;div&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); --darkreader-inline-color: #c8c3bc;&quot;&gt;//controller/KeyEndpoint.java&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(86, 156, 214); --darkreader-inline-color: #60a4d8;&quot;&gt;this&lt;/span&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); --darkreader-inline-color: #c8c3bc;&quot;&gt;.&lt;/span&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(220, 220, 170); --darkreader-inline-color: #d8d89f;&quot;&gt;setClient&lt;/span&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); --darkreader-inline-color: #c8c3bc;&quot;&gt;(&lt;/span&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(156, 220, 254); --darkreader-inline-color: #87d5fe;&quot;&gt;KeyServiceGrpc&lt;/span&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); --darkreader-inline-color: #c8c3bc;&quot;&gt;.&lt;/span&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(220, 220, 170); --darkreader-inline-color: #d8d89f;&quot;&gt;newBlockingStub&lt;/span&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); --darkreader-inline-color: #c8c3bc;&quot;&gt;(channel));&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z-BjC2MzRFKrm_7a5L8--4" value="&lt;div data-darkreader-inline-bgcolor=&quot;&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Fira code&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px; white-space: pre; --darkreader-inline-color: #c8c3bc; --darkreader-inline-bgcolor: #17191a;&quot;&gt;&lt;div&gt;&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); --darkreader-inline-color: #c8c3bc;&quot;&gt;//service/CoreProxyService.java&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div data-darkreader-inline-bgcolor=&quot;&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); line-height: 20px; --darkreader-inline-color: #c8c3bc; --darkreader-inline-bgcolor: #17191a;&quot;&gt;coreService &lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(212, 212, 212); --darkreader-inline-color: #cdc8c2;&quot;&gt;=&lt;/span&gt; &lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(156, 220, 254); --darkreader-inline-color: #87d5fe;&quot;&gt;CoreServiceGrpc&lt;/span&gt;.&lt;span data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(220, 220, 170); --darkreader-inline-color: #d8d89f;&quot;&gt;newBlockingStub&lt;/span&gt;(channel);&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z-BjC2MzRFKrm_7a5L8--5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;newBlockingStub是阻塞调用的gRPC客户端类型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
